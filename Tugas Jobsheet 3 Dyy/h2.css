@@ -1,0 +1,24 @@
+h2 {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+p {
+    color: red;
+    color: blue;
+    color: greenyellow;
+    color: black;
+}
+
+html {
+    background-image: url('nama_file_gambar.jpg');
+    background-size: cover;
+}
+
+
+
+
+
+p {
+    background-color: green;
+}
